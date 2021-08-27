@@ -1,5 +1,5 @@
 ---
-widget: contact
+widget: 联系方式
 widget_id: aixuan1995@163.com
 headless: true
 weight: 130
