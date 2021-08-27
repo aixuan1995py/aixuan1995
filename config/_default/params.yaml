@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: aixuan1995@163.com
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  city: 长春(长春)
+  region: 吉林(Jilin)
   postcode: '94305'
-  country: United States
-  country_code: US
+  country: China
+  country_code: CN
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
